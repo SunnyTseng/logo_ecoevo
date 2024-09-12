@@ -1,4 +1,5 @@
 # Illustrations for Eco-Evo 2024
+This repo contains the 2024 Eco-Evo illustrations 😃 along with project files and communication.
 
 ## Deliverables
 
