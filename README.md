@@ -4,7 +4,7 @@ This repo contains the 2024 Eco-Evo illustrations, along with project files and 
 ## Deliverables
 
 Each design comes with 2 rounds of revisions, defined as less than 2 hours of work. The files will be provided in .png and .svg file formats (.jpeg, .pdf, .tiff will be provided upon request).
-- EcoEvo advertisment poster with [ingo](./docs/EcoEvo_advertisment_poster_text.md) (3*4; 18*24 inch)
+- EcoEvo advertisment poster with [info](./docs/EcoEvo_advertisment_poster_text.md) (3 by 4 = 18 by 24 inch)
 - EcoEvo program
 - EcoEvo merchandise illustration (elements out of the poster design)
 
