@@ -18,8 +18,8 @@ Each design comes with 2 rounds of revisions, defined as less than 2 hours of wo
 ## EcoEvo merchandise illustration
 
 ### version 1 (2024 Sep.18)
-![](/docs/product/merchandise_v1.png)
 
+![](/docs/product/merchandise_v1_2.png)
 
 
 ## EcoEvo program
