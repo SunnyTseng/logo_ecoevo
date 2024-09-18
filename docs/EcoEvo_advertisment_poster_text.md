@@ -1,6 +1,8 @@
 
 Title: ECO EVO RETREAT
+
 Date: 2024 Nov. 8 - 10
+
 Location: Cheakamus Centre in Sauamish
 
 
@@ -9,4 +11,5 @@ Enjoy a scientific program (talks, blitzes, posters), plus a costume party and p
 
 
 Registered by Oct. 8th
+
 Registration QR code
