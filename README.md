@@ -11,13 +11,17 @@ Each design comes with 2 rounds of revisions, defined as less than 2 hours of wo
 
 ## EcoEvo advertisment poster
 
-### version 1 (2024 Sep.18)
+#### version 2 (2024 Sep.21)
+
+![](./docs/product/ecoevo_poster_v2.jpg)
+
+#### version 1 (2024 Sep.18)
 
 ![](./docs/product/Eco-Evo%20poster_v1.jpg)
 
 ## EcoEvo merchandise illustration
 
-### version 1 (2024 Sep.18)
+#### version 1 (2024 Sep.18)
 
 ![](/docs/product/merchandise_v1_2.png)
 
