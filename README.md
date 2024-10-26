@@ -33,6 +33,8 @@ Download: [PNG](./docs/product/ecoevo_poster_v3.png), [SVG](./docs/product/ecoev
 
 ## EcoEvo program
 
+![](/docs/product/2024%20ECOEVO%20PROGRAM.png)
+
 ## Schedule for submission
 - Sep. 22: Final EcoEvo advertisment poster
 - Oct. 6: Final EcoEvo merchandise illustration
